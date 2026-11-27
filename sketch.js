@@ -1,4 +1,4 @@
-/* DM3008 Generative Art — Week 4
+/* DM3008 Generative Art - Week 4
  * Project: Pinwheel
  * Author: Leah Chakola, 2026
  *
